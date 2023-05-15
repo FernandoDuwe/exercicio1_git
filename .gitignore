@@ -1,7 +1,10 @@
-# isto é um comentário
-
-config.ini
-
-libs/
-
+# Extensão .log
 *.log
+
+# Diretórios
+build/
+log/
+libraries/
+
+# Arquivo de configuração
+service.config
